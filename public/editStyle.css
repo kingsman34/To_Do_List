@@ -1,0 +1,45 @@
+.box {
+    padding-top: 10%;
+    text-align: center;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+  background-color: #f7f7f7;
+  background-image: url('img/bgg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  margin: 0;
+  }
+
+.header {
+    font-size: xx-large;
+    padding: 22px;
+}
+
+.list-of-task-div {
+    display: flex;
+    justify-content: center;
+}
+
+.task-div {
+    display: flex;
+}
+
+.button {
+    margin-left: 12px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.logout-button {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+}
