@@ -1,1 +1,1 @@
-An simple to do app along with authentication 
+This is a to do list app with user login system
